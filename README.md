@@ -5,10 +5,9 @@ An interactive and dynamic Power BI dashboard designed to analyze housing market
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](dashboard_screenshot.png) 
-*(Note: standardise text exactly to match your screenshot filename)*
 
 ## 💡 Key Metrics Tracked (KPIs)
-- **Total Properties Listed:** 14.62K
+- **Total Properties Listed:** 7.7K
 - **Average House Price:** ₹539K (Standardized)
 - **Average Living Area:** 2.08K SqFt
 - **Price per SqFt:** 256.85
