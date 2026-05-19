@@ -4,7 +4,8 @@
 An interactive and dynamic Power BI dashboard designed to analyze housing market trends, property features, and pricing structures based on a dataset of 14.62K+ records.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png) 
+![Dashboard Screenshot](<img width="1106" height="621" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/af38f3c6-2a3e-4fe3-a6cf-f4c3064fcfab" />
+) 
 
 ## 💡 Key Metrics Tracked (KPIs)
 - **Total Properties Listed:** 7.7K
