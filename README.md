@@ -1,2 +1,26 @@
-# Indian-Real-Estate-PowerBI-Dashboard
-An end-to-end Power BI dashboard analyzing Indian housing market trends using custom DAX, ETL via Power Query, and interactive visualizations.
+# Indian Real Estate Market Analytics Dashboard
+
+## 📊 Project Overview
+An interactive and dynamic Power BI dashboard designed to analyze housing market trends, property features, and pricing structures based on a dataset of 14.62K+ records.
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](dashboard_screenshot.png) 
+*(Note: standardise text exactly to match your screenshot filename)*
+
+## 💡 Key Metrics Tracked (KPIs)
+- **Total Properties Listed:** 14.62K
+- **Average House Price:** ₹539K (Standardized)
+- **Average Living Area:** 2.08K SqFt
+- **Price per SqFt:** 256.85
+- **Average Built Year:** 1971
+
+## 🛠️ Tech Stack & Skills Demonstrated
+- **BI Tool:** Microsoft Power BI Desktop
+- **Data Transformation:** Power Query (ETL, conditional columns, profiling)
+- **Data Modeling:** Custom DAX Measures and Calculated Columns
+- **Visualizations:** Line Charts (Trends), Clustered Columns, Donut Charts, and Custom Tile Slicers
+
+## 🔍 Key Insights from Analytics
+- **Price vs Bedrooms:** Clear linear growth in average house price as the number of bedrooms scales up.
+- **Yearly Trends:** Fluctuation analysis based on property construction eras to evaluate vintage vs modern valuation.
+- **Interactivity:** Integrated live filtering based on renovation status and property specifications.
