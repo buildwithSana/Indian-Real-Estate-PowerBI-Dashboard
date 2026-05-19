@@ -1,7 +1,7 @@
 # Indian Real Estate Market Analytics Dashboard
 
 ## 📊 Project Overview
-An interactive and dynamic Power BI dashboard designed to analyze housing market trends, property features, and pricing structures based on a dataset of 14.62K+ records.
+An interactive and dynamic Power BI dashboard designed to analyze housing market trends, property features, and pricing structures based on a dataset of 7.7K+ records.
 
 ## 💡 Key Metrics Tracked (KPIs)
 - **Total Properties Listed:** 7.7K
